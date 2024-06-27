@@ -1,6 +1,6 @@
 # Sales Funnel Analysis
 
-##Project Overview
+## Project Overview
 This project analyzes sales data to understand how Solutions Architects (SAs) are interacting with and affecting the sales process. The goal is to derive insights on the effectiveness of SA involvement in various stages of the sales pipeline, win rates, deal sizes, and other key metrics. The analysis is based on SQL queries executed on the company's sales data, with visualizations created using the Plotly Python package.
 
 Objectives
