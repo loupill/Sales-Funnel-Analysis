@@ -75,7 +75,7 @@ The analysis involved running a series of SQL queries on the company's sales dat
 ## Visualizations
 Visualizations were created using Tableau as well as the Plotly Python package based on the data from the SQL queries. These visualizations help illustrate the key findings and insights from the analysis.
 
-Conclusion
+## Conclusion
 This analysis provides a comprehensive understanding of the impact of Solutions Architects on the sales process. The insights derived can be used to optimize SA involvement, improve win rates, and enhance overall sales productivity.
 
 For detailed SQL queries and Python code used for visualization, please refer to the corresponding sheets and slide deck in the project repository.
